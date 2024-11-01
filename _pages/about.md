@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "欢迎来到史庆宇的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+本人于华中科技大学获得计算机专业学士、博士（直接攻读）学位，博士师从华中科技大学信息存储实验室王芳、冯丹教授，曾在大型国有科技企业从事研究员工作1年，目前在湖南工商大学&湘江实验室工作，长期研究分布式存储网络、集群通信协议、数据中心网络和分布式AI训练网络加速等方面的性能优化工作。
 
 A data-driven personal website
 ======
