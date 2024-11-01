@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "zh_CN"
-title                    : "Your Name / Site Title"
+title                    : "史庆宇（Qingyu Shi） / 个人主页"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "史庆宇"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "史庆宇"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "湖南工商大学&湘江实验室"
+  location         : "长沙"
+  employer         : "湖南工商大学&湘江实验室"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qingyushi@hust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
