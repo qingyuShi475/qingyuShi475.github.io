@@ -12,7 +12,7 @@ title                    : "史庆宇 (Qingyu Shi)"
 title_separator          : "-"
 name                     : &name "史庆宇"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qingyushi475.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qingyuShi475/qingyuShi475.github.io"
 
