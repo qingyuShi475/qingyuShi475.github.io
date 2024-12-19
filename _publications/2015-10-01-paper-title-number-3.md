@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-3
 date: 2025-03-10
-venue: 'WSDM'25'
+venue: 'WSDM\'25'
 paperurl: 'http://academicpages.github.io/files/wsdm25.pdf'
-citation: 'Xiaocui Li, Guoliang Li, Xinyu Zhang, Qingyu Shi, Wei Liang. In Proceedings of the 18th ACM International Conference on Web Search and Data Mining (WSDM '25), Hannover, Germany.'
+citation: 'Xiaocui Li, Guoliang Li, Xinyu Zhang, Qingyu Shi, Wei Liang. In Proceedings of the 18th ACM International Conference on Web Search and Data Mining (WSDM \'25), Hannover, Germany.'
 ---
 
 
