@@ -1,12 +1,13 @@
 ---
-title: "基于混合存储结构的分级协同节能方案"
+title: "A congestion-aware and robust multicast protocol in SDN-based data center networks"
 collection: publications
 category: manuscripts
-permalink: /publication/mix
-date: 2024-10-01
-venue: "计算机科学与探索"
-paperurl: 'http://qingyuShi475.github.io/files/mix.pdf'
-citation: "李大平, <b>史庆宇*</b>, 唐忆滨, 胡哲琨, 高毅. 基于混合存储结构的分级协同节能方案. 计算机科学与探索, 2024, 18(10): 2690-2703."
+permalink: /publication/congestion
+date: 2017-08-09
+venue: "JNCA"
+paperurl: 'http://qingyuShi475.github.io/files/congestion.pdf'
+citation: "Tingwei Zhu, Dan Feng, Fang Wang, Yu Hua, <b>Qingyu Shi</b>, Yanwen Xie, Yong Wan. A congestion-aware and robust multicast protocol in SDN-based data center networks. Journal of Network and Computer Applications (JNCA), 95: 105-117 (2017)
+."
 ---
 
 
