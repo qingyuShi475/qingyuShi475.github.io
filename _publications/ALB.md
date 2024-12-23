@@ -1,12 +1,12 @@
 ---
-title: "基于混合存储结构的分级协同节能方案"
+title: "ALB: Adaptive Load Balancing Based on Accurate Congestion Feedback for Asymmetric Topologies"
 collection: publications
 category: manuscripts
-permalink: /publication/mix
-date: 2024-10-01
-venue: "计算机科学与探索"
-paperurl: 'http://qingyuShi475.github.io/files/mix.pdf'
-citation: "李大平, <b>史庆宇*</b>, 唐忆滨, 胡哲琨, 高毅. 基于混合存储结构的分级协同节能方案. 计算机科学与探索, 2024, 18(10): 2690-2703."
+permalink: /publication/ALB
+date: 2018-06-04
+venue: "IWQoS"
+paperurl: 'http://qingyuShi475.github.io/files/ALB.pdf'
+citation: "<b>Qingyu Shi</b>, Fang Wang, Dan Feng, Weibin Xie. ALB: Adaptive Load Balancing Based on Accurate Congestion Feedback for Asymmetric Topologies. In Proceedings of the 26th IEEE/ACM International Symposium on Quality of Service (IWQoS), Banff, AB, Canada, 2018: 1-6."
 ---
 
 
