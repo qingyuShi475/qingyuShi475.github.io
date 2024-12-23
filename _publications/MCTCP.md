@@ -1,12 +1,12 @@
 ---
-title: "基于混合存储结构的分级协同节能方案"
+title: "MCTCP: Congestion-aware and robust multicast TCP in Software-Defined networks"
 collection: publications
 category: manuscripts
-permalink: /publication/mix
-date: 2024-10-01
-venue: "计算机科学与探索"
-paperurl: 'http://qingyuShi475.github.io/files/mix.pdf'
-citation: "李大平, <b>史庆宇*</b>, 唐忆滨, 胡哲琨, 高毅. 基于混合存储结构的分级协同节能方案. 计算机科学与探索, 2024, 18(10): 2690-2703."
+permalink: /publication/MCTCP
+date: 2016-06-20
+venue: "IWQoS"
+paperurl: 'http://qingyuShi475.github.io/files/MCTCP.pdf'
+citation: "Tingwei Zhu, Fang Wang, Yu Hua, Dan Feng, Yong Wan, <b>Qingyu Shi</b>, Yanwen Xie. MCTCP: Congestion-aware and robust multicast TCP in Software-Defined networks. In Proceedings of the 24th IEEE/ACM International Symposium on Quality of Service (IWQoS), Beijing, China, 2016: 1-10."
 ---
 
 
