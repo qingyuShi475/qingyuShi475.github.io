@@ -1,12 +1,12 @@
 ---
-title: "基于混合存储结构的分级协同节能方案"
+title: "MIC: An Efficient Anonymous Communication System in Data Center Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/mix
-date: 2024-10-01
-venue: "计算机科学与探索"
-paperurl: 'http://qingyuShi475.github.io/files/mix.pdf'
-citation: "李大平, <b>史庆宇*</b>, 唐忆滨, 胡哲琨, 高毅. 基于混合存储结构的分级协同节能方案. 计算机科学与探索, 2024, 18(10): 2690-2703."
+permalink: /publication/MIC
+date: 2016-08-16
+venue: "ICPP"
+paperurl: 'http://qingyuShi475.github.io/files/MIC.pdf'
+citation: "Tingwei Zhu, Dan Feng, Yu Hua, Fang Wang, <b>Qingyu Shi</b>, Jiahao Liu. MIC: An Efficient Anonymous Communication System in Data Center Networks. In Proceedings of the 45th International Conference on Parallel Processing (ICPP), Philadelphia, PA, USA, 2016: 11-20."
 ---
 
 
