@@ -2,7 +2,7 @@
 title: "IntFlow: Integrating Per-Packet and Per-Flowlet Switching Strategy for Load Balancing in Datacenter Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/mix
+permalink: /publication/IntFlow
 date: 2020-04-28
 venue: "TNSM"
 paperurl: 'http://qingyuShi475.github.io/files/IntFlow.pdf'
