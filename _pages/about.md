@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-本人于华中科技大学获得计算机专业学士、博士（直接攻读）学位，博士毕业于华中科技大学[冯丹](http://faculty.hust.edu.cn/dfeng/)老师团队，导师[王芳](http://faculty.hust.edu.cn/wangfang16/)老师，曾在大型国有科技企业从事软件开发工作1年以上，目前在湖南工商大学&湘江实验室[陈晓红](https://ysg.ckcest.cn/html/details/8038/index.html)院士课题组工作，硕士生导师，IEEE/CCF会员，长期研究分布式存储网络、数据中心网络、可编程网络等方面工作。
+华中科技大学信息安全专业学士、计算机专业博士（直接攻读），博士毕业于华中科技大学武汉光电国家研究中心[冯丹](http://faculty.hust.edu.cn/dfeng/)教授团队，导师[王芳](http://faculty.hust.edu.cn/wangfang16/)教授，曾在大型国有科技企业从事软件开发工作1年以上，目前在湖南工商大学&湘江实验室[陈晓红](https://ysg.ckcest.cn/html/details/8038/index.html)院士课题组工作，硕士生导师，IEEE/CCF会员，长期研究分布式存储网络、数据中心网络、可编程网络等方面工作。
 
 最近工作
 ======
