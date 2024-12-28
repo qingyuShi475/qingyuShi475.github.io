@@ -11,8 +11,8 @@ redirect_from:
 
 最近工作
 ======
-+ 2024.11: IMVCLRCA被国际会议[ACM WSDM](https://www.wsdm-conference.org/2025/)接收
-+ 2024.11: BurstLoader被国际会议[IEEE HPCC](http://www.ieee-hust-ncc.org/2024/HPCC/)接收
-+ 2024.10: LBoDSN被国际会议[IFIP NPC](https://www.npc-conference.com/#/npc2024)接收
++ 2024.11: IMVCLRCA被国际会议[ACM WSDM 2025](https://www.wsdm-conference.org/2025/)接收
++ 2024.11: BurstLoader被国际会议[IEEE HPCC 2024](http://www.ieee-hust-ncc.org/2024/HPCC/)接收
++ 2024.10: LBoDSN被国际会议[IFIP NPC 2024](https://www.npc-conference.com/#/npc2024)接收
 + 2024.10: MixSave在期刊[计算机科学与探索](http://fcst.ceaj.org/CN/1673-9418/home.shtml)发表
-+ 2024.01: ImMC-CSFL被国际会议[PAKDD](https://pakdd2024.org/)接收
++ 2024.01: ImMC-CSFL被国际会议[PAKDD 2024](https://pakdd2024.org/)接收
