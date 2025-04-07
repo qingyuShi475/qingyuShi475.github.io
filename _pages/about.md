@@ -11,6 +11,7 @@ redirect_from:
 
 最近工作
 ======
++ 2025.04: STVAI在期刊[JPDC](https://www.sciencedirect.com/science/article/abs/pii/S0743731525000462)发表
 + 2025.03: IMVCLRCA被国际会议[ACM WSDM 2025](https://www.wsdm-conference.org/2025/)收录
 + 2024.12: BurstLoader被国际会议[IEEE HPCC 2024](http://www.ieee-hust-ncc.org/2024/HPCC/)收录
 + 2024.12: LBoDSN被国际会议[IFIP NPC 2024](https://www.npc-conference.com/#/npc2024)收录
