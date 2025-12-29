@@ -11,6 +11,7 @@ redirect_from:
 
 最近工作
 ======
++ 2025.12: LBoDSN在期刊[TII](https://ieeexplore.ieee.org/document/11314664)发表
 + 2025.09: Serve as the TPC member of [ICA3PP 2025](https://ieee-cybermatics.org/2025/ica3pp/committee/tpc.html)
 + 2025.08: DBLB被国际会议[ISPA 2025](https://ieee-ai-for-science.org/2025/ispa/index.php)接收
 + 2025.04: STVAI在期刊[JPDC](https://www.sciencedirect.com/science/article/abs/pii/S0743731525000462)发表
